@@ -1,4 +1,4 @@
-# Polygenic scores for precision psychiatry
+# Heterogeneous effects of antidepressants on suicidal ideation: role of polygenic scores
 
 Code for [Polygenic scores for precision psychiatry: a study on the effect heterogeneity of antidepressants](https://www.medrxiv.org/content/10.1101/2024.11.02.24316657v1).
 
